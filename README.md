@@ -92,7 +92,7 @@ Please open issues for bugs, improvements, or feature discussions.
 
 **Khushi Malik**  
 AI Researcher | Developer Tools Innovator | LLM Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/khushi-malik/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/khushi-6b972b280/) 
 📧 khushimalik511263@gmail.com 
 
 ---
